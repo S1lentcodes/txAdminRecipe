@@ -107,6 +107,11 @@ tasks:
     dest: ./resources/[standalone]/qb-target
     ref: main
     src: https://github.com/S1lentcodes/qb-target
+
+  - action: download_github
+    dest: ./resources/[standalone]/ped_spawner
+    ref: main
+    src: https://github.com/S1lentcodes/ped_spawner
     
     # VOICE
   - action: download_github
