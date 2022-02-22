@@ -473,7 +473,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-shops
     ref: main
-    src: https://github.com/qbcore-framework/qb-shops
+    src: https://github.com/S1lentcodes/qb-shops
 
   - action: download_github
     dest: ./resources/[qb]/qb-lockpick
